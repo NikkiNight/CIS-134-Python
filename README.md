@@ -1,2 +1,2 @@
 # CIS-134-Python
-Projects &amp; Homework from CIS 134 @ LCCC
+Projects &amp; Homework from CIS 134 @ Lehigh Carbon Community College
